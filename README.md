@@ -7,8 +7,11 @@ Sou um profissional com formação em Gestão Pública, Ciência de Dados e Ciê
 📌 Projetos em destaque Análise de Indicadores Sociais Dashboard de Eficiência Pública 
 
 🌐 Links 
+
 🌎 Meu site pessoal:  https://tropicalanalysis.journoportfolio.com/?lang=pt
+
 💼 LinkedIn: https://www.linkedin.com/in/roberto-d-b05680266/  
+
 📬 Email: rhccarmo@gmail.com
 
 "Dados bem usados são como bússolas na escuridão da gestão pública."
