@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Roberto da Cunha
+# 👋 Olá! 
 
 Sou um profissional com formação em **Gestão Pública**, **Ciência de Dados** e **Ciências Humanas**, com mais de 10 anos de experiência em **Tecnologia da Informação**. Minha missão é transformar dados em soluções para uma administração pública mais eficiente, justa e centrada no cidadão.
 
