@@ -1,8 +1,8 @@
 # Olá! 👋
 
-Sou um profissional com formação em Gestão Pública, Ciência de Dados e Ciências Humanas, com mais de 10 anos de experiência em Tecnologia da Informação. Minha missão é transformar dados em soluções para uma administração pública mais eficiente, justa e centrada no cidadão.  
+Sou um profissional que une Gestão Pública, Ciência de Dados e Ciências Humanas, com mais de 10 anos de experiência em Tecnologia da Informação. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
 
-*"Dados bem usados são como bússolas na escuridão da gestão pública."*
+"O poder dos dados está em revelar caminhos para decisões públicas mais justas e conscientes."
 
 ---
 
