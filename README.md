@@ -1,8 +1,9 @@
 # Olá! 👋
 
-Sou um profissional que une Gestão Pública, Ciência de Dados e Ciências Humanas, com mais de 10 anos de experiência em Tecnologia da Informação. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
+Sou um profissional que une **Gestão Pública, Ciência de Dados e Ciências Humanas**, com mais de **10 anos de experiência em Tecnologia da Informação**.  
+Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.  
 
-"O poder dos dados está em revelar caminhos para decisões públicas mais justas e conscientes."
+> *"O poder dos dados está em revelar caminhos para decisões públicas mais justas e conscientes."*
 
 ---
 
@@ -14,62 +15,109 @@ Sou um profissional que une Gestão Pública, Ciência de Dados e Ciências Huma
 
 ---
 
-## 🌟 Destaques do Portfólio
-Trago uma seleção de projetos organizados por área temática, com foco em impacto social, diversidade metodológica e domínio técnico progressivo.  
+## 🌟 Portfólio de Projetos
 
-### 📚 Educação
-- `educational-indicators-br`: Análise de indicadores educacionais brasileiros (ENEM, IDEB, INEP).  
-- `eja-enrollment-decline`: Redução das matrículas na EJA e implicações sociais.  
-- `indicadores-educacao-municipal`: Avaliação detalhada por município.  
-- `school-dropout-map` e `school-dropout-risk`: Identificação de evasão e risco de abandono escolar.  
-- `educacao-x-rendimento`: Correlação entre escolaridade e indicadores socioeconômicos.  
+### 📊 Categorias Temáticas
 
-### ❤️ Saúde
-- `health-system-diagnosis`: Capacidade, demanda e eficiência de unidades de saúde.  
-- `public-health-mapping`: Georreferenciamento das demandas e capacidades do SUS.  
-- `family-health-impact`: Efeito da expansão da Saúde da Família.  
-- `desigualdade-regional-saude`: Disparidades no acesso à saúde.  
-- `modelo-previsao-gastos-saude`: Previsão de gastos futuros em saúde com ML.  
+#### 1. 🌍 Macroeconomia, Desenvolvimento e Bem-Estar
+Projetos de escopo global ou nacional, analisando tendências de longo prazo  
 
-### 🌍 Desigualdades Sociais e Regionais
-- `urban-inequality-analysis`: Disparidades socioeconômicas e de infraestrutura.  
-- `acesso-servicos-basicos`: Cobertura de água, esgoto e energia por região e renda.  
-- `neighborhood-income-analysis`: Distribuição de renda entre bairros.  
-- `desigualdade-digital-brasil`: Inclusão digital e acesso à internet.  
-- `municipal-inequality-investment`: Relação entre desigualdade municipal e repasses federais.  
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **mb-public-finance-social-development** | Avalia como gastos públicos em educação e saúde influenciam indicadores sociais e desenvolvimento econômico | World Bank WDI, IMF GFS, OECD Revenue Statistics |
+| **mb-inequality-economic-outcomes** | Investigação sobre como crescimento econômico e políticas públicas interagem na determinação da desigualdade | World Inequality Database, World Bank PovcalNet |
+| **wellbeing-historical-evolution** | Compara trajetórias históricas de bem-estar com séries de renda, educação e saúde | Clio-Infra, Our World in Data, Maddison Project |
+| **mb-global-poverty-wellbeing** | Analisa indicadores de pobreza, educação e saúde para entender padrões de bem-estar | World Bank WDI, World Bank PovcalNet, UN SDG |
+| **wellbeing-index-comparison** | Visualiza lacunas de bem-estar entre Brasil e Escandinávia | OECD Better Life Index, World Happiness Report |
+| **mb-trade-economic-growth** | Investiga a relação entre comércio internacional e crescimento econômico | World Bank WDI, UN Comtrade, IMF BoP |
+| **mb-urbanization-quality-life** | Analisa a relação entre urbanização e qualidade de vida em diferentes países | UN Urbanization Prospects, World Bank WDI |
 
-### 💰 Orçamento & Finanças Públicas
-- `fiscal-scenario-simulator`: Simulador de cenários fiscais.  
-- `municipal-spending-comparator`: Comparador de gastos municipais por área funcional.  
-- `orcamento-publico-analise` e `transparencia-gastos-publicos`: Monitoramento de despesas governamentais.  
-- `br-government-spending-transparency`: Comparação de gastos entre estados e municípios.  
-- `mb-public-finance-social-development`: Impacto dos gastos em educação e saúde sobre indicadores sociais.  
+#### 2. 🏥 Política Social: Educação, Saúde e Proteção
+Foco em políticas específicas de proteção social e seus impactos  
 
-### 📈 Avaliação de Políticas Públicas
-- `avaliacao-politicas-publicas` e `public-policy-causal-impact`: Avaliação de impacto com inferência causal.  
-- `subsidy-impact-modeling`: Impacto de cortes de subsídios sobre populações vulneráveis.  
-- `painel-participacao-social`: Dashboard sobre canais de participação popular.  
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **universal-health-comparison** | Avalia impacto da cobertura universal de saúde em mortalidade e acesso | WHO Global Health Observatory, World Bank HNP Stats |
+| **gender-family-equality** | Avalia políticas de apoio familiar e igualdade de gênero | OECD Gender Data, ILO STAT, UN Women |
+| **labor-social-protection** | Compara segurança no trabalho e políticas públicas | ILO STAT, OECD Labour Market Statistics |
+| **social-spending-poverty** | Mensura a eficácia da redistribuição social analisando gasto social | OECD Social Expenditure, IMF GFS |
+| **finland-basic-income-pilot** | Simula políticas de renda básica no Brasil | Statistics Finland, EU-SILC |
+| **school-dropout-map** | Identifica municípios com maior evasão escolar e avalia políticas de bolsas | INEP, IBGE, Atlas Brasil |
+| **family-health-impact** | Analisa efeito da expansão da Saúde da Família na redução de internações | DATASUS, IBGE, CNES |
+| **health-spending-transparency** | Avalia se maiores gastos em saúde refletem melhores indicadores | DATASUS SIOPS, CNES, IMF GFS |
+| **public-health-mapping** | Georreferenciamento das demandas e capacidades do sistema público de saúde | IBGE, DATASUS, IPEA Data |
+| **health-system-diagnosis** | Mapeamento e análise da capacidade, demanda e eficiência de unidades de saúde | DATASUS, IBGE |
 
-### 🤖 Modelagem Avançada, ML & NLP
-- `mlops-model-pipeline`: Pipeline de ML com CI/CD e MLflow.  
-- `credit-risk-xai`: Risco de crédito com Explainable AI.  
-- `multivariate-lstm-forecast`: Séries temporais multivariadas.  
-- `hybrid-recommender-system` e `item-recommendation-model`: Sistemas de recomendação.  
-- `fraud-detection-autoencoder`: Detecção de anomalias com autoencoders.  
-- `review-sentiment-analysis` e `fake-news-classifier`: NLP e classificação de textos.  
-- `causal-inference-ml`: Técnicas de ML para análise causal.  
-- `financial-market-analysis`: Séries financeiras e modelagem exploratória.  
+#### 3. 💼 Mercado de Trabalho, Mobilidade e Oportunidade
+Projetos sobre empregabilidade, mobilidade social e intergeracional  
 
-### 🌱 Meio Ambiente & Sustentabilidade
-- `environmental-risk-mapping`: Identificação de áreas críticas usando satélites e dados socioeconômicos.  
-- `climate-energy-monitor`: Monitoramento de crises climáticas e risco de racionamento energético.  
-- `mb-energy-sustainable-development`: Consumo de energia, emissão de CO₂ e crescimento econômico.  
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **intergenerational-mobility** | Compara oportunidades sociais entre gerações | OECD CIAGO, EEA NPD, PSID |
+| **education-labor-gap** | Estuda relação entre qualidade educacional e empregabilidade local | RAIS, CAGED, INEP, PNADc |
+| **urban-transport-mobility-cn** | Analisa mobilidade urbana na China, otimiza rotas | Amap API, Baidu Map API |
+| **smart-urban-mobility** | Otimiza transporte público e reduz tempo de espera | SPTrans API, Google Maps API |
+| **sp-public-transport-optimization** | Análise de dados para otimização do transporte público em SP | SPTrans API, EMTU API, GTFS Data |
 
-### 🌐 Projetos Internacionais & Comparativos
-- China: `energy-sustainability-policy-cn`, `ecommerce-consumption-trends-cn`, `urban-transport-mobility-cn`  
-- Bem-estar global: `wellbeing-historical-evolution`, `wellbeing-vs-free-market`, `wellbeing-index-comparison`, `happiness-determinants`  
-- Políticas sociais: `finland-basic-income-pilot`, `gender-family-equality`, `labor-social-protection`, `universal-health-comparison`, `intergenerational-mobility`, `social-spending-poverty`  
-- Economia global: `mb-digitalization-growth`, `mb-climate-change-development`, `mb-trade-economic-growth`, `mb-urbanization-quality-life`, `mb-education-economic-growth`, `mb-inequality-economic-outcomes`, `mb-health-life-expectancy`, `mb-global-poverty-wellbeing`  
+#### 4. 🌱 Sustentabilidade, Energia e Meio Ambiente
+
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **mb-energy-sustainable-development** | Explora a relação entre consumo de energia, CO₂ e crescimento | IEA Stats, BP Statistical Review |
+| **energy-sustainability-policy-cn** | Avalia políticas de energia limpa e emissões na China | National Bureau of Statistics of China, IEA |
+| **climate-energy-monitor** | Monitora crises climáticas e prevê risco de racionamento | ONS, INPE, CPTEC, NOAA |
+| **br-environmental-impact-tracker** | Rastreamento de indicadores ambientais e poluição | CETESB, INEA, IMA, SNIS |
+| **environmental-risk-mapping** | Identifica áreas críticas usando imagens de satélite e dados socioeconômicos | INPE, MapBiomas, Global Forest Watch |
+
+#### 5. 🏛️ Governança, Transparência e Economia Municipal
+
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **public-contracts-transparency** | Identifica concentração de contratos públicos e redes de empresas | TCE-SP, TCM-BA, SICONV |
+| **municipal-inequality-investment** | Examina relação entre desigualdade municipal e repasses federais | IBGE, IPEA Data, Siconfi |
+| **municipal-spending-comparator** | Ferramenta para comparar investimentos públicos entre municípios | Tesouro Nacional Siconfi, IBGE |
+| **transparencia-gastos-publicos** | Rastreamento e visualização de despesas governamentais | Tesouro Nacional Siconfi, Portal da Transparência |
+| **orcamento-publico-analise** | Exploração de dados orçamentários federais, estaduais e municipais | Tesouro Nacional Siconfi, SIOP |
+| **voter-abstention-comparison** | Análise das taxas de abstenção em eleições entre municípios | TSE, IBGE |
+| **government-metrics-dashboard** | Dashboard estratégico que integra indicadores de desempenho | Tesouro Nacional Siconfi, IPEA Data |
+
+#### 6. 🤖 Métodos Avançados em Ciência de Dados
+
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **causal-inference-ml** | Implementação de técnicas de ML para análises causais em políticas públicas | Dados Administrativos, RAIS, PNADc |
+| **public-policy-causal-impact** | Aplicação de métodos estatísticos para medir impacto real | Dados Administrativos, IBGE PNADc |
+| **avaliacao-politicas-publicas** | Estudo de impacto usando métodos de inferência causal (DID, propensity score) | Dados Administrativos, IBGE |
+| **multivariate-lstm-forecast** | Sistema avançado de previsão de séries temporais multivariadas | Yahoo Finance, Alpha Vantage, FRED |
+| **fraud-detection-autoencoder** | Modelagem não supervisionada com autoencoders | SIM, SIH, SIAFI |
+| **hybrid-recommender-system** | Sistema de recomendação híbrido | MovieLens, Amazon Product Dataset |
+| **credit-risk-xai** | Sistema de classificação de risco de crédito com explicação automática | UCI Credit Card, Kaggle Lending Club |
+| **fake-news-classifier** | Classificação de textos com NLP | LIAR Dataset, Kaggle Fake News |
+| **urban-vulnerability-index** | Construção de índice composto para priorizar áreas urbanas | IBGE Censo, Atlas Brasil, DATASUS |
+
+#### 7. 🗺️ Análises Regionais e Urbanas (Foco no Brasil)
+
+| Projeto | Descrição | Principais Fontes de Dados |
+|---------|-----------|-----------------------------|
+| **sp-housing-affordability-study** | Padrões de acessibilidade habitacional e gentrificação em SP | IBGE, FipeZAP, GeoSampa |
+| **sp-crime-patterns-prediction** | Modelos preditivos para padrões de criminalidade em SP | SSP-SP Infocrim, ISP, IBGE |
+| **br-income-inequality-mapping** | Mapeamento espacial e temporal da desigualdade de renda | IBGE Censo, IPEA Data, Atlas Brasil |
+| **br-covid19-response-analysis** | Estudo de dados e resposta à pandemia no Brasil | Ministério da Saúde, Brasil.IO |
+| **urban-inequality-analysis** | Análise das disparidades socioeconômicas entre bairros | IBGE Censo, Atlas Brasil, GeoSampa |
+| **neighborhood-income-analysis** | Estudo da distribuição de renda entre bairros | IBGE Censo, IPEA Data, Atlas |
+| **lighting-crime-impact** | Verifica efeito da iluminação pública LED na criminalidade | SSP-SP, Prefeitura Municipal |
+
+---
+
+## 📋 Legenda de Fontes de Dados
+- **IBGE**: Instituto Brasileiro de Geografia e Estatística  
+- **DATASUS**: Departamento de Informática do SUS  
+- **INEP**: Instituto Nacional de Estudos e Pesquisas Educacionais  
+- **IPEA**: Instituto de Pesquisa Econômica Aplicada  
+- **TSE**: Tribunal Superior Eleitoral  
+- **RAIS**: Relação Anual de Informações Sociais  
+- **CAGED**: Cadastro Geral de Empregados e Desempregados  
+- **PNAD**: Pesquisa Nacional por Amostra de Domicílios  
 
 ---
 
@@ -83,14 +131,15 @@ Trago uma seleção de projetos organizados por área temática, com foco em imp
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-- **Linguagens:** Python, R, SQL  
-- **Bibliotecas:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, GeoPandas  
-- **Ferramentas:** Jupyter, Streamlit, Docker, Git, MLflow  
-- **Práticas:** MLOps, CI/CD, Explainable AI, Data Storytelling, Visualização Interativa  
+- **Linguagens**: Python, R, SQL  
+- **Bibliotecas**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, GeoPandas  
+- **Ferramentas**: Jupyter, Streamlit, Docker, Git, MLflow  
+- **Práticas**: MLOps, CI/CD, Explainable AI, Data Storytelling, Visualização Interativa  
 
 ---
 
 ## 🌐 Contato
-- 🌎 [Meu site pessoal](#)  
-- 💼 [LinkedIn](#)  
-- 📬 Email: rhccarmo@gmail.com
+- 🌎 [Meu site pessoal]()  
+- 💼 [LinkedIn]()  
+- 📬 Email:  
+- 📂 [Repositório GitHub](https://github.com/rhccarmo21)  
