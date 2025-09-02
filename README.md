@@ -18,8 +18,7 @@ Aqui no meu GitHub, compartilho projetos que unem análise de dados, modelagem a
 | **[mb-education-economic-growth](https://github.com/rhccarmo21/mb-education-economic-growth)** | Impacto da educação no crescimento econômico | Python, Scikit-learn, Plotly | World Bank WDI, UNESCO, OECD Education |
 | **[mb-digitalization-growth](https://github.com/rhccarmo21/mb-digitalization-growth)** | Digitalização e desenvolvimento econômico | Python, API Integration, Dash | ITU Statistics, World Bank WDI, National Statistics |
 | **[mb-climate-change-development](https://github.com/rhccarmo21/mb-climate-change-development)** | Mudanças climáticas e desenvolvimento | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
-| **[mb-inequality-economic-outcomes](https://github.com/rhccarmo21/mb-inequality-economic-outcomes)** | Mudanças climáticas e desenvolvimento | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
-
+| **[mb-inequality-economic-outcomes](https://github.com/rhccarmo21/mb-inequality-economic-outcomes)** | Desigualdade e resultados econômicos | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
 
 #### 🚧 Não Concluídos
 | Projeto | Status | Descrição | Bases de Dados Planejadas |
