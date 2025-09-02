@@ -1,6 +1,8 @@
 # Olá! Bem-vindo! 👋
 
-Meu nome é Robertoe, sou profissional com mais de 10 anos de experiência, agora unindo conhecimentos em Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
+Olá, sou Roberto, profissional com mais de 10 anos de experiência, combinando Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights acionáveis e soluções concretas, com o objetivo de tornar a administração pública mais eficiente, justa e centrada no cidadão.
+
+Aqui no meu GitHub, compartilho projetos que unem análise de dados, modelagem avançada e visualização, todos voltados para apoiar decisões públicas e gerar impacto real na sociedade.
 
 ---
 
