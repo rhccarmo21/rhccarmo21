@@ -1,14 +1,6 @@
-# Olá, eu sou Ricardo Carmo! 👋
+# Olá! 👋
 
-**Gestão Pública | Ciência de Dados | Ciências Humanas**
-
-> *"O poder dos dados está em revelar caminhos para decisões públicas mais justas e conscientes."*
-
----
-
-## 🌟 Sobre Mim
-
-Profissional com mais de 10 anos de experiência em Tecnologia da Informação, unindo conhecimentos em Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
+Sou profissional com mais de 10 anos de experiência em Tecnologia da Informação, unindo conhecimentos em Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
 
 ---
 
