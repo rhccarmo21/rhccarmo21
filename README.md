@@ -1,6 +1,6 @@
-# Olá! 👋
+# Olá! Bem-vindo! 👋
 
-Sou profissional com mais de 10 anos de experiência em Tecnologia da Informação, unindo conhecimentos em Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
+Meu nome é Robertoe, sou profissional com mais de 10 anos de experiência, agora unindo conhecimentos em Gestão Pública, Ciência de Dados e Ciências Humanas. Transformo dados em insights e soluções concretas para tornar a administração pública mais eficiente, justa e centrada no cidadão.
 
 ---
 
