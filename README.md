@@ -24,7 +24,6 @@ Aqui no meu GitHub, compartilho projetos que unem análise de dados, modelagem a
 | Projeto | Status | Descrição | Bases de Dados Planejadas |
 |---------|--------|-----------|--------------------------|
 | **mb-public-finance-social-development** | Em planejamento | Impacto dos gastos públicos em desenvolvimento social | World Bank WDI, IMF GFS, OECD Revenue Statistics |
-| **mb-inequality-economic-outcomes** | Em planejamento | Análise da relação entre crescimento e desigualdade | World Inequality Database, World Bank PovcalNet, Luxembourg Income Study |
 | **wellbeing-historical-evolution** | Em planejamento | Trajetórias históricas de bem-estar | Clio-Infra, Our World in Data, Maddison Project |
 | **mb-global-poverty-wellbeing** | Em planejamento | Análise de pobreza e bem-estar global | World Bank WDI, World Bank PovcalNet, UN SDG Database |
 | **wellbeing-index-comparison** | Em planejamento | Comparação de bem-estar entre países | OECD Better Life Index, World Happiness Report, Gallup World Poll |
