@@ -19,7 +19,7 @@ Aqui no meu GitHub, compartilho projetos que unem análise de dados, modelagem a
 | **[mb-digitalization-growth](https://github.com/rhccarmo21/mb-digitalization-growth)** | Digitalização e desenvolvimento econômico | Python, API Integration, Dash | ITU Statistics, World Bank WDI, National Statistics |
 | **[mb-climate-change-development](https://github.com/rhccarmo21/mb-climate-change-development)** | Mudanças climáticas e desenvolvimento | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
 | **[mb-inequality-economic-outcomes](https://github.com/rhccarmo21/mb-inequality-economic-outcomes)** | Desigualdade e resultados econômicos | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
-| **[mb-global-poverty-wellbeing](https://github.com/rhccarmo21/mb-global-poverty-wellbeing)** | Análise de pobreza e bem-estar global | World Bank WDI, World Bank PovcalNet, UN SDG Database |
+| **[mb-global-poverty-wellbeing](https://github.com/rhccarmo21/mb-global-poverty-wellbeing)** | Análise de pobreza e bem-estar global | Python, Pandas, Matplotlib | World Bank WDI, World Bank PovcalNet, UN SDG Database |
 
 #### 🚧 Não Concluídos
 | Projeto | Status | Descrição | Bases de Dados Planejadas |
