@@ -20,6 +20,8 @@ Aqui no meu GitHub, compartilho projetos que unem análise de dados, modelagem a
 | **[mb-climate-change-development](https://github.com/rhccarmo21/mb-climate-change-development)** | Mudanças climáticas e desenvolvimento | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
 | **[mb-inequality-economic-outcomes](https://github.com/rhccarmo21/mb-inequality-economic-outcomes)** | Desigualdade e resultados econômicos | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
 | **[mb-global-poverty-wellbeing](https://github.com/rhccarmo21/mb-global-poverty-wellbeing)** | Análise de pobreza e bem-estar global | Python, Pandas, Matplotlib | World Bank WDI, World Bank PovcalNet, UN SDG Database |
+| [**mb-ger-econ-environ-decoupling**](https://github.com/rhccarmo21/mb-ger-econ-environ-decoupling) | Análise do desacoplamento econômico-ambiental na Alemanha | Python, Pandas, Matplotlib | World Bank WDI, Eurostat, OECD, Destatis |
+| **[mb-ger-inequality-social-cohesion](https://github.com/rhccarmo21/mb-ger-inequality-social-cohesion)** | Análise de desigualdade e coesão social na Alemanha (1990–2017) | Python, Pandas, Seaborn, Statsmodels | World Bank WDI, Eurostat, OECD, SOEP |
 
 #### 🚧 Não Concluídos
 | Projeto | Status | Descrição | Bases de Dados Planejadas |
