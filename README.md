@@ -1,6 +1,6 @@
 # Olá! Bem-vindo ao Meu Portfólio 👋
 
-## Roberto Carmo | Especialista em Dados para Políticas Públicas  
+## Roberto da Cunha | Especialista em Dados para Políticas Públicas  
 **Gestão Pública | Ciência de Dados | Impacto Social**  
 
 Transformo dados complexos em **insights acionáveis e soluções práticas** para tornar a administração pública mais eficiente, transparente e centrada no cidadão.  
