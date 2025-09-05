@@ -157,9 +157,9 @@ Transformo dados complexos em **insights acionáveis e soluções práticas** pa
 
 ## 📫 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-d-b05680266/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhccarmo@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/rhccarmo21)
 
 ---
 
