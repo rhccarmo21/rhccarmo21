@@ -1,170 +1,134 @@
-# Olá! Bem-vindo ao Meu Portfólio 👋
+# Portfólio de Projetos de Ciência de Dados – Roberto Cunha
 
-## Roberto da Cunha | Especialista em Dados para Políticas Públicas  
-**Gestão Pública | Ciência de Dados | Impacto Social**  
-
-Transformo dados complexos em **insights acionáveis e soluções práticas** para tornar a administração pública mais eficiente, transparente e centrada no cidadão. Aqui você encontrará projetos que unem análise de dados, modelagem estatística e visualização para apoiar decisões baseadas em evidências.
+Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a políticas públicas, economia, educação, saúde, sustentabilidade, mobilidade urbana, bem-estar e análise avançada. Todos os projetos são construídos com dados reais e técnicas robustas.
 
 ---
 
-## 📊 Portfólio de Projetos
+## 🌐 Estrutura por Eixo Temático
 
-### 🌍 Macroeconomia & Desenvolvimento Sustentável
-
-#### ✅ Projetos Concluídos
-
-| Projeto | Descrição | Tecnologias | Bases de Dados |
-|---------|-----------|-------------|----------------|
-| **mb-trade-economic-growth** | Análise da relação entre comércio internacional e crescimento econômico | Python, Pandas, Matplotlib | World Bank WDI, UN Comtrade, IMF BoP |
-| **mb-urbanization-quality-life** | Estudo sobre urbanização e qualidade de vida | Python, Seaborn, Statsmodels | UN Urbanization Prospects, World Bank WDI, OECD |
-| **mb-education-economic-growth** | Impacto da educação no crescimento econômico | Python, Scikit-learn, Plotly | World Bank WDI, UNESCO, OECD Education |
-| **mb-digitalization-growth** | Digitalização e desenvolvimento econômico | Python, API Integration, Dash | ITU Statistics, World Bank WDI, National Statistics |
-| **mb-climate-change-development** | Mudanças climáticas e desenvolvimento | Python, GeoPandas, Scipy | World Bank WDI, NOAA, Climate Watch, World Resources Institute |
-| **mb-inequality-economic-outcomes** | Desigualdade e resultados econômicos | Python, Pandas, Seaborn | World Inequality Database, World Bank WDI, OECD |
-| **mb-global-poverty-wellbeing** | Análise de pobreza e bem-estar global | Python, Pandas, Matplotlib | World Bank WDI, World Bank PovcalNet, UN SDG Database |
-| **mb-ger-econ-environ-decoupling** | Análise do desacoplamento econômico-ambiental na Alemanha | Python, Pandas, Matplotlib | World Bank WDI, Eurostat, OECD, Destatis |
-| **mb-ger-inequality-social-cohesion** | Análise de desigualdade e coesão social na Alemanha (1990–2017) | Python, Pandas, Seaborn, Statsmodels | World Bank WDI, Eurostat, OECD, SOEP |
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-public-finance-social-development** | Impacto dos gastos públicos em desenvolvimento social | Planejamento |
-| **mb-wellbeing-historical-evolution** | Trajetórias históricas de bem-estar | Planejamento |
-| **mb-wellbeing-index-comparison** | Comparação de bem-estar entre países | Planejamento |
+### 1. Economia, Crescimento e Sustentabilidade
+| Projeto | Descrição |
+|---------|-----------|
+| mb-green-growth | Crescimento econômico sustentável |
+| mb-economic-structure-vulnerability | Vulnerabilidade da estrutura econômica |
+| mb-trade-economic-growth | Comércio e crescimento econômico |
+| mb-digitalization-growth | Impacto da digitalização no crescimento |
+| ger-econ-environ-decoupling | Desacoplamento econômico-ambiental |
+| mb-sustainable-tradeoffs | Trade-offs de sustentabilidade |
 
 ---
 
-### 🏥 Políticas Sociais: Saúde, Educação e Proteção
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-universal-health-comparison** | Impacto da cobertura universal de saúde | Planejamento |
-| **mb-gender-family-equality** | Políticas de igualdade de gênero | Planejamento |
-| **mb-labor-social-protection** | Segurança no trabalho e políticas públicas | Planejamento |
-| **mb-social-spending-poverty** | Eficácia da redistribuição social | Planejamento |
-| **mb-finland-basic-income-pilot** | Simulação de renda básica | Planejamento |
-| **mb-school-dropout-map** | Mapeamento de evasão escolar | Planejamento |
-| **mb-family-health-impact** | Efeito da Saúde da Família | Planejamento |
-| **mb-health-spending-transparency** | Gastos em saúde e resultados | Planejamento |
-| **mb-public-health-mapping** | Georreferenciamento de saúde | Planejamento |
-| **mb-health-system-diagnosis** | Diagnóstico do sistema de saúde | Planejamento |
+### 2. Urbanização, Desigualdade e Coesão Social
+| Projeto | Descrição |
+|---------|-----------|
+| mb-urbanization-inequality-cohesion | Urbanização, desigualdade e coesão |
+| mb-urbanization-quality-life | Urbanização e qualidade de vida |
+| urban-inequality-analysis | Análise de desigualdade urbana |
+| urban-vulnerability-index | Índice de vulnerabilidade urbana |
+| sp-urban-mobility-analysis | Mobilidade urbana em SP |
+| smart-urban-mobility | Mobilidade urbana inteligente |
+| lighting-crime-impact | Impacto da iluminação na criminalidade |
 
 ---
 
-### 💼 Mercado de Trabalho & Mobilidade
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-intergenerational-mobility** | Mobilidade social intergeracional | Planejamento |
-| **mb-education-labor-gap** | Educação e empregabilidade | Planejamento |
-| **mb-urban-transport-mobility-cn** | Mobilidade urbana na China | Planejamento |
-| **mb-smart-urban-mobility** | Otimização de transporte | Planejamento |
-| **mb-sp-public-transport-optimization** | Transporte público em SP | Planejamento |
-
----
-
-### 🌱 Sustentabilidade & Meio Ambiente
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-energy-sustainable-development** | Energia e desenvolvimento sustentável | Planejamento |
-| **mb-energy-sustainability-policy-cn** | Políticas de energia na China | Planejamento |
-| **mb-climate-energy-monitor** | Monitoramento climático | Planejamento |
-| **mb-br-environmental-impact-tracker** | Indicadores ambientais | Planejamento |
-| **mb-environmental-risk-mapping** | Mapeamento de risco ambiental | Planejamento |
+### 3. Educação, Saúde e Bem-Estar
+| Projeto | Descrição |
+|---------|-----------|
+| mb-education-health-prosperity | Educação, saúde e prosperidade |
+| wellbeing-historical-evolution | Evolução histórica do bem-estar |
+| universal-health-comparison | Comparação de sistemas de saúde universais |
+| health-system-diagnosis | Diagnóstico de sistemas de saúde |
+| ideb-evolution-by-school | Evolução do IDEB por escola |
+| school-dropout-risk | Risco de evasão escolar |
+| educacao-x-rendimento | Educação vs rendimento |
+| family-health-impact | Impacto da família na saúde |
+| wellbeing-index-comparison | Comparação de índices de bem-estar |
+| happiness-determinants | Determinantes da felicidade |
 
 ---
 
-### 🏛️ Governança & Economia Municipal
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-public-contracts-transparency** | Concentração de contratos públicos | Planejamento |
-| **mb-municipal-inequality-investment** | Desigualdade municipal | Planejamento |
-| **mb-municipal-spending-comparator** | Comparador de investimentos | Planejamento |
-| **mb-transparencia-gastos-publicos** | Visualização de despesas | Planejamento |
-| **mb-orcamento-publico-analise** | Análise orçamentária | Planejamento |
-| **mb-voter-abstention-comparison** | Abstenção eleitoral | Planejamento |
-| **mb-government-metrics-dashboard** | Dashboard governamental | Planejamento |
-
----
-
-### 🤖 Métodos Avançados em Ciência de Dados
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-causal-inference-ml** | ML para análises causais | Planejamento |
-| **mb-public-policy-causal-impact** | Medição de impacto | Planejamento |
-| **mb-avaliacao-politicas-publicas** | Inferência causal | Planejamento |
-| **mb-multivariate-lstm-forecast** | Previsão de séries temporais | Planejamento |
-| **mb-fraud-detection-autoencoder** | Detecção de fraudes | Planejamento |
-| **mb-hybrid-recommender-system** | Sistema de recomendação | Planejamento |
-| **mb-credit-risk-xai** | Risco de crédito com XAI | Planejamento |
-| **mb-fake-news-classifier** | Classificação de fake news | Planejamento |
-| **mb-urban-vulnerability-index** | Índice de vulnerabilidade | Planejamento |
+### 4. Políticas Públicas e Governança
+| Projeto | Descrição |
+|---------|-----------|
+| mb-public-finance-social-development | Finanças públicas e desenvolvimento social |
+| public-contracts-transparency | Transparência em contratos públicos |
+| br-government-spending-transparency | Transparência de gastos governamentais |
+| municipal-spending-comparator | Comparador de gastos municipais |
+| transparência-gastos-publicos | Análise de transparência em gastos |
+| orcamento-publico-analise | Análise de orçamento público |
+| public-policy-causal-impact | Impacto causal de políticas públicas |
+| modelo-previsao-gastos-saude | Modelo de previsão de gastos em saúde |
+| eja-enrollment-decline | Declínio na matrícula da EJA |
+| voter-abstention-comparison | Comparação de abstenção eleitoral |
+| subsidy-impact-modeling | Modelagem de impacto de subsídios |
 
 ---
 
-### 🗺️ Análises Regionais e Urbanas (Brasil)
-
-#### 🚧 Em Desenvolvimento
-
-| Projeto | Descrição | Status |
-|---------|-----------|--------|
-| **mb-sp-housing-affordability-study** | Acessibilidade habitacional em SP | Planejamento |
-| **mb-sp-crime-patterns-prediction** | Predição de criminalidade | Planejamento |
-| **mb-br-income-inequality-mapping** | Mapeamento da desigualdade | Planejamento |
-| **mb-br-covid19-response-analysis** | Resposta à pandemia | Planejamento |
-| **mb-urban-inequality-analysis** | Disparidades urbanas | Planejamento |
-| **mb-neighborhood-income-analysis** | Renda entre bairros | Planejamento |
-| **mb-lighting-crime-impact** | Iluminação e criminalidade | Planejamento |
+### 5. Energia, Meio Ambiente e Sustentabilidade
+| Projeto | Descrição |
+|---------|-----------|
+| energy-sustainability-policy-cn | Políticas de energia e sustentabilidade |
+| climate-energy-monitor | Monitoramento de clima e energia |
+| mb-climate-change-development | Mudanças climáticas e desenvolvimento |
+| br-environmental-impact-tracker | Rastreador de impacto ambiental |
+| environmental-risk-mapping | Mapeamento de risco ambiental |
+| mb-energy-sustainable-development | Energia e desenvolvimento sustentável |
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-**Linguagens de Programação:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas & Plataformas:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rhccarmo21&show_icons=true&theme=radical&hide_title=true)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rhccarmo21&layout=compact&theme=radical&hide_title=true)
+### 6. Tecnologia, Modelagem Avançada e Machine Learning
+| Projeto | Descrição |
+|---------|-----------|
+| item-recommendation-model | Recomendador de itens simples |
+| product-demand-forecast | Previsão de demanda de produtos |
+| hybrid-recommender-system | Sistema de recomendação híbrido |
+| credit-risk-xai | Risco de crédito com Explainable AI |
+| multivariate-lstm-forecast | Previsão multivariada com LSTM |
+| fraud-detection-autoencoder | Detecção de fraude com autoencoders |
+| causal-inference-ml | Inferência causal com ML |
+| fake-news-classifier | Classificador de fake news |
+| review-sentiment-analysis | Análise de sentimento em reviews |
+| financial-market-analysis | Análise de mercados financeiros |
 
 ---
 
-## 📫 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-d-b05680266/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhccarmo@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/rhccarmo21)
+### 7. Indicadores Sociais, Mobilidade e Dados Municipais
+| Projeto | Descrição |
+|---------|-----------|
+| local-economics-forecast | Previsão econômica local |
+| municipal-inequality-investment | Investimento e desigualdade municipal |
+| health-spending-transparency | Transparência de gastos em saúde |
+| sp-public-transport-optimization | Otimização do transporte público em SP |
+| br-public-health-monitoring | Monitoramento da saúde pública |
+| municipality-profile-tool | Ferramenta de perfil municipal |
+| public-data-dashboard | Dashboard de dados públicos |
+| fiscal-scenario-simulator | Simulador de cenários fiscais |
+| electricity-access-ranking | Ranking de acesso à eletricidade |
+| household-education-distribution | Distribuição de educação por domicílio |
+| health-coverage-map | Mapas de cobertura de saúde |
+| neighborhood-income-analysis | Análise de renda por bairro |
+| sp-education-performance-dashboard | Dashboard de desempenho educacional em SP |
+| school-dropout-map | Mapa de evasão escolar |
 
 ---
 
-## 📄 Licenças
-
-Todos os projetos estão sob licença **MIT** - livres para uso acadêmico e de pesquisa.
-
-✨ *"Dados transformados em políticas públicas mais eficientes e inclusivas"*  
+### 8. Outros Projetos Relevantes
+| Projeto | Descrição |
+|---------|-----------|
+| public-service-distance | Distância a serviços públicos |
+| urban-transport-mobility-cn | Mobilidade urbana na China |
+| ecommerce-consumption-trends-cn | Tendências de consumo e-commerce na China |
+| wellbeing-vs-free-market | Bem-estar vs economia de mercado |
+| finland-basic-income-pilot | Experimento de renda básica na Finlândia |
+| gender-family-equality | Gênero e igualdade familiar |
+| labor-social-protection | Trabalho e proteção social |
+| universal-health-comparison | Comparação de sistemas de saúde |
+| government-metrics-dashboard | Dashboard de métricas governamentais |
+| environmental-risk-mapping | Mapeamento de risco ambiental |
+| smart-urban-mobility | Mobilidade urbana inteligente |
+| educacao-x-rendimento | Educação x Rendimento |
+| avaliacao-politicas-publicas | Avaliação de políticas públicas |
+| painel-participacao-social | Painel de participação social |
+| acesso-servicos-basicos | Acesso a serviços básicos |
+| desigualdade-digital-brasil | Desigualdade digital no Brasil |
+| urban-vulnerability-index | Índice de vulnerabilidade urbana |
