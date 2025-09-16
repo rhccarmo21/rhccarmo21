@@ -1,4 +1,4 @@
-# Portfólio de Projetos de Ciência de Dados – Roberto Cunha
+# Portfólio de Projetos de Ciência de Dados
 
 Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a políticas públicas, economia, educação, saúde, sustentabilidade, mobilidade urbana, bem-estar e análise avançada. Todos os projetos são construídos com dados reais e técnicas robustas.
 
