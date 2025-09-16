@@ -4,7 +4,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 1. Economia, Crescimento e Sustentabilidade
+## 🌐 Economia, Crescimento e Sustentabilidade
 
 1. **mb-green-growth** – Crescimento econômico sustentável  
 2. **mb-economic-structure-vulnerability** – Vulnerabilidade da estrutura econômica  
@@ -16,7 +16,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 2. Urbanização, Desigualdade e Coesão Social
+## 🌐 Urbanização, Desigualdade e Coesão Social
 
 8. **mb-urbanization-inequality-cohesion** – Urbanização, desigualdade e coesão  
 9. **mb-urbanization-quality-life** – Urbanização e qualidade de vida  
@@ -29,7 +29,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 3. Educação, Saúde e Bem-Estar
+## 🌐 Educação, Saúde e Bem-Estar
 
 16. **mb-education-health-prosperity** – Educação, saúde e prosperidade  
 17. **wellbeing-historical-evolution** – Evolução histórica do bem-estar  
@@ -46,7 +46,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 4. Políticas Públicas e Governança
+## 🌐 Políticas Públicas e Governança
 
 28. **mb-public-finance-social-development** – Finanças públicas e desenvolvimento social  
 29. **public-contracts-transparency** – Transparência em contratos públicos  
@@ -65,7 +65,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 5. Energia, Meio Ambiente e Sustentabilidade
+## 🌐 Energia, Meio Ambiente e Sustentabilidade
 
 42. **energy-sustainability-policy-cn** – Políticas de energia e sustentabilidade  
 43. **climate-energy-monitor** – Monitoramento de clima e energia  
@@ -76,7 +76,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 6. Tecnologia, Modelagem Avançada e Machine Learning
+## 🌐 Tecnologia, Modelagem Avançada e Machine Learning
 
 48. **item-recommendation-model** – Recomendador de itens simples  
 49. **product-demand-forecast** – Previsão de demanda de produtos  
@@ -91,7 +91,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 7. Indicadores Sociais, Mobilidade e Dados Municipais
+## 🌐 Indicadores Sociais, Mobilidade e Dados Municipais
 
 58. **local-economics-forecast** – Previsão econômica local  
 59. **municipal-inequality-investment** – Investimento e desigualdade municipal  
@@ -111,7 +111,7 @@ Este portfólio reúne **92 projetos** de Ciência de Dados aplicados a polític
 
 ---
 
-## 🌐 8. Outros Projetos Relevantes
+## 🌐 Outros Projetos Relevantes
 
 73. **urban-transport-mobility-cn** – Mobilidade urbana na China  
 74. **ecommerce-consumption-trends-cn** – Tendências de consumo e-commerce na China  
